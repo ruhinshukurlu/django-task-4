@@ -1,6 +1,6 @@
 # django-task-4
-##Task 1. Prepare Product table
-##Prepare a table that contains Products using model and model fields. Let the products have the following attributes:
+## Task 1. Prepare Product table
+## Prepare a table that contains Products using model and model fields. Let the products have the following attributes:
   - id (number type)
   - name (character type)
   - description (text type)
@@ -14,8 +14,8 @@
   - rating (decimal digits type)
   - detailed view link (web address (url) type)
 -------------------------------------------------------------------------------------------------------
-##Task 2.Product Model options
-##Product model attributes give you create the following features:
+## Task 2.Product Model options
+## Product model attributes give you create the following features:
   - name - can have a maximum of 125 characters. name must be unique.
   - description - can have a maximum of 500 characters.
   - category - can have a maximum of 125 characters. Must have different choices. Choices can
@@ -33,8 +33,8 @@
   - detailed view link (web address (url) type) - can have a maximum of 300 characters. Not
   required to be added. Let this attribute get a null value.
 --------------------------------------------------------------------------------------------------------
-##Task 3. Set Product Meta options and create table
-##Change the meta options to the product model as follows:
+## Task 3. Set Product Meta options and create table
+## Change the meta options to the product model as follows:
   - verbose name must be "Product".
   - verbose plural name must be "Products".
   - table name must be "company_products".
